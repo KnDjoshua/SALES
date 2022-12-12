@@ -7,20 +7,22 @@ body {
   /* background-position: center; */
   background-repeat: no-repeat;
   background-blend-mode: darken;
-  background-color: red;
+  background-color: black;
 }
 h1 {
   text-align: center;
   padding-top: 40px;
   font-size: 6vw;
-  color: black;
+  color: white;
   font-family: "Rubik Vinyl", cursive;
 }
 
 a {
   text-decoration: none;
   font-size: 3vw;
-  background-color: red;
+  background-color: black;
+  color:orangered;
+  border:1px solid red;
   padding: 3px;
   border-radius: 5px;
   font-family: "Rubik Vinyl", cursive;
